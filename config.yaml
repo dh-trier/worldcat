@@ -1,0 +1,31 @@
+# This is the configuration file for the worldcat.py script. 
+# Use this file to define the various parameters for running the script. 
+
+
+
+# Path to the folder in which the top-level folder of 
+# the intended ELTeC repository is found. (Not directly the folder
+# that contains XML-TEI files.)
+
+
+#basedir: "C:/Users/Johanna/worldcat/COST-ELTeC" # Example on Windows
+basedir : "/media/christof/mydata/repos/cost/" # Example on Linux
+
+# Language of the collection. Only those entries in WorldCat will be 
+# considered that correspond to this language.
+
+lang : "fra" # fra, eng, deu, ita, por, spa, srp, gre, hun, slv, rom, nor, cze
+
+# choose level of xml-files:
+
+level : "level1" # level0, level2
+
+# Working directory
+
+wdir : ""
+
+# Folder for the HTML files
+
+write_file : "html"
+
+htmlpages : "html/*.html"

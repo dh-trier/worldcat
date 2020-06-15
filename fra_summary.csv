@@ -1,0 +1,82 @@
+	total_counts	canon_counts	canon_status	author	title
+FRA00101	8	1	low	Adam, Juliette 	Mon Village : ELTeC edition
+FRA00102	12	0	low	Adam, Juliette 	Païenne : ELTeC edition
+FRA00201	48	9	high	Audoux, Marguerite 	Marie-Claire : ELTeC edition
+FRA00301	44	1	low	Aimard, Gustave 	Les Trappeurs de l'Arkansas : ELTeC edition
+FRA00302	20	1	low	Aimard, Gustave 	Belle rivière : ELTeC edition
+FRA00401	36	0	low	Allais, Alphone 	Le Captain Cap : ELTeC edition
+FRA00501	304	19	high	Balzac, Honoré de 	Albert Savarus : ELTeC edition
+FRA00502	448	27	high	Balzac, Honoré de 	Le cousin Pons : ELTeC edition
+FRA00503	388	22	high	Balzac, Honoré de 	Le curé de village : ELTeC edition
+FRA00601	4	0	low	Boisgobey, Fortuné du 	Le crime de l'omnibus : ELTeC edition
+FRA00602	6	0	low	Boisgobey, Fortuné du 	Rubis sur l'ongle : ELTeC edition
+FRA00701	24	0	low	Carraud, Zulma 	La petite Jeanne : ELTeC edition
+FRA00801	0	0	low	Comtesse Dash [Gabrielle Anna de Cisternes de Courtiras, vicomtesse de Saint-Mars] 	Le château de Pinon I: ELTeC edition
+FRA00901	304	30	high	Daudet, Alphonse 	Le petit chose : ELTeC edition
+FRA00903	46	0	low	Daudet, Alphonse 	Numa Roumestan : Mœurs Parisiennes : ELTeC edition
+FRA01001	4	0	low	Delarue-Mardrus, Lucie 	Comme tout le monde : ELTeC edition
+FRA01101	8	0	low	Dombre, Roger [Marguerite Sisson / Marguerite Ligeron] 	Une pupille gênante : ELTeC edition
+FRA01102	6	0	low	Dombre, Roger [Marguerite Sisson / Marguerite Ligeron] 	Folla : ELTeC edition
+FRA01201	12	1	low	Féval, Paul Henri Corentin [dit Paul Féval père] 	Le Cavalier Fortune : ELTeC edition
+FRA01202	32	0	low	Féval, Paul Henri Corentin [dit Paul Féval père] 	Les Errants de nuit : ELTeC edition
+FRA01203	38	6	high	Féval, Paul Henri Corentin [dit Paul Féval père] 	le Loup blanc : ELTeC edition
+FRA01301	748	120	high	Flaubert, Gustave 	L'Éducation sentimentale : ELTeC edition
+FRA01302	1122	191	high	Flaubert, Gustave 	Madame Bovary : ELTeC edition
+FRA01303	540	61	high	Flaubert, Gustave 	Salammbô : ELTeC edition
+FRA01401	16	0	low	Fleuriot, Zénaïde 	Un enfant gâté : ELTeC edition
+FRA01402	6	0	low	Fleuriot, Zénaïde 	En congé : ELTeC edition
+FRA01403	2	0	low	Fleuriot, Zénaïde 	Alberte : ELTeC edition
+FRA01501	126	10	high	France, Anatole 	Les dieux ont soif: ELTeC edition
+FRA01601	8	1	low	Gautier, Judith 	La Sœur du Soleil : ELTeC edition
+FRA01602	6	1	low	Gautier, Judith 	Fleurs d'Orient : ELTeC edition
+FRA01603	6	1	low	Gautier, Judith 	Les Princesses d'Amour: courtisanes japonaises : ELTeC edition
+FRA01701	88	23	high	Gautier, Théophile 	Militona : ELTeC edition
+FRA01702	202	42	high	Gautier, Théophile 	Le roman de la momie : ELTeC edition
+FRA01801	22	0	low	Gay, Marie Françoise Sophie 	Ellenore : ELTeC edition
+FRA01901	20	0	low	Gaboriau, Émile 	Le crime d'Orcival : ELTeC edition
+FRA01902	44	5	high	Gaboriau, Émile 	Monsieur Lecoq : ELTeC edition
+FRA02001	2	0	low	Gilbert, Jehan 	Vers le pôle en aéroplane : ELTeC edition
+FRA02101	22	0	low	Girardin, Delphine de [Delphine Gay] 	Marguerite, ou Deux amours : ELTeC edition
+FRA02201	2	0	low	Gouraud, Julie [Louise d'Aulnay] 	Quand je serai grande : ELTeC edition
+FRA02202	4	0	low	Gouraud, Julie [Louise d'Aulnay] 	Le petit colporteur : ELTeC edition
+FRA02203	2	0	low	Gouraud, Julie [Louise d'Aulnay] 	Les Filles du professeur : ELTeC edition
+FRA02301	4	0	low	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand] 	La seconde mère : ELTeC edition
+FRA02302	4	0	low	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand] 	L’amie : ELTeC edition
+FRA02303	8	0	low	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand] 	Ariadne : ELTeC edition
+FRA02401	2	1	low	Le Rouge, Gustave 	L'Esclave amoureuse : ELTeC edition
+FRA02402	4	2	high	Le Rouge, Gustave 	La Conspiration des Milliardaires : ELTeC edition
+FRA02501	66	6	high	Loti, Pierre 	Mon frère Yves : ELTeC edition
+FRA02502	88	7	high	Loti, Pierre 	Ramuntcho : ELTeC edition
+FRA02601	50	3	high	Malot, Hector 	Romain Kalbris : ELTeC edition
+FRA02602	410	82	high	Malot, Hector 	Sans famille : ELTeC edition
+FRA02603	12	0	low	Malot, Hector 	Conscience : ELTeC edition
+FRA02701	264	51	high	Maupassant, Guy de 	Bel-Ami : ELTeC edition
+FRA02702	484	103	high	Maupassant, Guy de 	Une Vie : ELTeC edition
+FRA02801	34	7	high	Mirbeau, Octave 	L'abbé Jules : ELTeC edition
+FRA02802	8	4	high	Mirbeau, Octave 	La Maréchale : ELTeC edition
+FRA02901	10	0	low	Noailles, Anna de 	La nouvelle espérance : ELTeC edition
+FRA03001	32	1	low	Ohnet, Georges 	La Grande Marnière : ELTeC edition
+FRA03002	20	0	low	Ohnet, Georges 	L'Âme de Pierre : ELTeC edition
+FRA03003	12	0	low	Ohnet, Georges 	Le Marchand de Poison : ELTeC edition
+FRA03101	12	2	high	Ponson du Terrail, Pierre Alexis 	La baronne trépassée : ELTeC edition
+FRA03102	68	10	high	Ponson du Terrail, Pierre Alexis 	La résurrection de Rocambole : ELTeC edition
+FRA03201	0	0	low	Rachilde [Marguerite Vallette-Eymery] 	La Marquise de Sade: ELTeC edition
+FRA03202	2	0	low	Rachilde [Marguerite Vallette-Eymery] 	Monsieur Vénus : ELTeC edition
+FRA03301	8	0	low	Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse] 	La Mexicaine : ELTeC edition
+FRA03302	26	0	low	Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse] 	Le piège aux maris : ELTeC edition
+FRA03401	6	1	low	Reybaud, Fanny [Hippolyte Arnaud] 	Mademoiselle de Malepeire : ELTeC edition
+FRA03601	366	59	high	Proust, Marcel 	Du côté de chez Swann : ELTeC edition
+FRA03701	32	7	high	Sand, George [Amantine Lucile Aurore Dupin] 	Nanon : ELTeC edition
+FRA03702	32	8	high	Sand, George [Amantine Lucile Aurore Dupin] 	Le dernier amour : ELTeC edition
+FRA03703	96	12	high	Sand, George [Amantine Lucile Aurore Dupin] 	Le Compagnon du Tour de France : ELTeC edition
+FRA03801	10	0	low	Stern, Daniel [Marie d'Agoult] 	Hervé : ELTeC edition
+FRA03802	14	0	low	Stern, Daniel [Marie d'Agoult] 	Nélida : ELTeC edition
+FRA03901	12	0	low	Stolz, Madame de [Fanny de Bégon] 	La Maison roulante : ELTeC edition
+FRA03902	4	0	low	Stolz, Madame de [Fanny de Bégon] 	La Maison blanche : ELTeC edition
+FRA03903	4	0	low	Stolz, Madame de [Fanny de Bégon] 	Le Secret de Laurent : ELTeC edition
+FRA04001	100	19	high	Verne, Jules 	Un capitaine de quinze ans : ELTeC edition
+FRA04002	70	20	high	Verne, Jules 	Le Secret de Wilhelm Storitz : ELTeC edition
+FRA04101	20	0	low	Erckmann, Émile 	Une campagne en Kabylie : Récit d'un chasseur d'Afrique : ELTeC edition
+FRA04102	44	2	high	Erckmann, Émile 	Madame Thérèse, ou les volontaires de 92 : ELTeC edition
+FRA04201	108	4	high	Rolland, Romain 	L'aube : ELTeC edition
+FRA04202	82	3	high	Rolland, Romain 	La nouvelle journée : ELTeC edition
